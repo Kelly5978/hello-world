@@ -1,2 +1,1 @@
-# hello-world
-First repo
+After working on a react native app, I am completely hooked on hooks!  Wait.  It's more than that :).  I'm hooked on the goal of becoming a full stack developer.  My first github repo seemed like a pretty good place to start!
